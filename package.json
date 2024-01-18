@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@project-serum/anchor": "^0.26.0",
+    "@shadow-drive/sdk": "^5.0.0"
+  }
+}
